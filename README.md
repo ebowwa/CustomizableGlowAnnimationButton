@@ -1,5 +1,5 @@
 # CustomizableGlowAnimationButton
-![swiftui button](CustomizableButton+WebsocketActivationButtonAppexample.png)
+![swiftui button](public/CustomizableButton+WebsocketActivationButtonAppexample.png)
 
 ### Overview
 The `CustomizableButton` is a SwiftUI button component designed for flexibility, using parameters that allow the developer to specify visual properties such as the icon, gradient colors, and button size. The button can display SF Symbols or custom images. This guide walks you through adding the button to your project and configuring it to fit different UI designs.
