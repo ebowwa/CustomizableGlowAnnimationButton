@@ -1,4 +1,4 @@
-# CustomizableGlowAnnimationButton
+# CustomizableGlowAnimationButton
 ![swiftui button](CustomizableButton+WebsocketActivationButtonAppexample.png)
 
 ### Overview
